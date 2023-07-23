@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipetrevizam)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=dio-lab-open-source&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=dio-lab-open-source&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2f80ed&text_color=000)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
