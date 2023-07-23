@@ -15,8 +15,11 @@
 - Yale - Introduction to Medical Software (https://coursera.org/verify/687PNAHSTUF4)
 - ANBIMA - CPA10 (V7R1-H4R6-V5X9)
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableu](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipetrevizam)](https://github.com/anuraghazra/github-readme-stats)
 
