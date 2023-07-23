@@ -23,7 +23,7 @@
 ![Tableu](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipetrevizam&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=dio-lab-open-source&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=2f80ed&text_color=000)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
