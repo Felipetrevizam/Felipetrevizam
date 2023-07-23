@@ -5,6 +5,16 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7G1bKPS8FD4M4ZEgBQFfUA)
 
 ## Habilidades
+
+###Graduação
+- Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
+- Ciência e Tecnologia - UNIFESP (2023-2024)
+- Ciência da Computação - UNIFESP (2023-2025)
+
+###Certificados
+- Yale - Introduction to Medical Software (https://coursera.org/verify/687PNAHSTUF4)
+- ANBIMA - CPA10 (V7R1-H4R6-V5X9)
+
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
