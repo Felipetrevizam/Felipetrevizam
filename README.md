@@ -1,5 +1,3 @@
-# Portifólio
-
 # Felipe Trevizam
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
