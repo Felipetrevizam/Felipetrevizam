@@ -6,12 +6,12 @@
 
 ## Habilidades
 
-###Graduação
+**Graduação**
 - Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
 - Ciência e Tecnologia - UNIFESP (2023-2024)
 - Ciência da Computação - UNIFESP (2023-2025)
 
-###Certificados
+**Certificados**
 - Yale - Introduction to Medical Software (https://coursera.org/verify/687PNAHSTUF4)
 - ANBIMA - CPA10 (V7R1-H4R6-V5X9)
 
