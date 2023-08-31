@@ -24,6 +24,7 @@
 - ANBIMA - CPA10 (V7R1-H4R6-V5X9)
 - Mircrosoft - Fundamentos para Análise de Dados (https://www.coursera.org/verify/WU3KDRDGD5QQ)
 - Google - Fundamentos do gerenciamento de projetos (https://www.coursera.org/verify/WU3KDRDGD5QQ)
+- Google - Fundamentos: dados, dados, em todos os lugare (https://www.coursera.org/verify/LCUNGT2H9JCA)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Felipetrevizam/dio-lab-open-source)
