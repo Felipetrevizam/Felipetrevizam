@@ -24,7 +24,6 @@
 
 **Certificados**
 - Yale - Introduction to Medical Software (https://coursera.org/verify/687PNAHSTUF4)
-- ANBIMA - CPA10 (V7R1-H4R6-V5X9)
 - Mircrosoft - Fundamentos para Análise de Dados (https://www.coursera.org/verify/WU3KDRDGD5QQ)
 - Google - Fundamentos do gerenciamento de projetos (https://www.coursera.org/verify/WU3KDRDGD5QQ)
 - Google - Fundamentos: dados, dados, em todos os lugare (https://www.coursera.org/verify/LCUNGT2H9JCA)
