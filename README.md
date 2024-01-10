@@ -32,4 +32,5 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=CPF-Em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Felipetrevizam/CPF-Em-Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=Forca-Em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Felipetrevizam/Forca-Em-Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=Lista-De-Compras&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Felipetrevizam/Lista-De-Compras)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipetrevizam&repo=Prova-Alternativas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Felipetrevizam/Prova-Alternativas)
 
