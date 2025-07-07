@@ -17,9 +17,9 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipetrevizam&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 **Graduação**
-- Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
-- Ciência e Tecnologia - UNIFESP (2023-2024)
-- Ciência da Computação - UNIFESP (2023-2025)
+- Tecnológico em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
+- Bacharelado em Ciência e Tecnologia - UNIFESP (2023-2024)
+- Mestrado em Engenharia Mecânica - ITA (2024-2026)
 
 **Certificados**
 - Yale - Introduction to Medical Software (https://coursera.org/verify/687PNAHSTUF4)
