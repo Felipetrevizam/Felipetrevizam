@@ -17,7 +17,7 @@
 
 **Graduação**
 - Tecnológico em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
-- Bacharelado em Ciência e Tecnologia - UNIFESP (2023-2024)
+- Bacharelado em Ciência e Tecnologia - UNIFESP (2023-2025)
 - Mestrado em Engenharia Mecânica - ITA (2024-2026)
 
 **Certificados**
