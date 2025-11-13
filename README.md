@@ -14,7 +14,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipetrevizam&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 **Graduação**
 - Tecnológico em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2019-2021)
